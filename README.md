@@ -71,3 +71,16 @@ F1-score
 Output Files:
 models/pollution_model.pkl
 feature_importance.png
+
+
+## Week 5 – Geospatial Mapping
+
+Tools Used:
+- Folium
+- HeatMap plugin
+
+Features:
+- Pollution heatmap using PM2.5 values
+- Source-specific markers
+- High-risk zone highlighting
+- Interactive map exported as HTML
